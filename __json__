@@ -1,0 +1,12 @@
+{
+    "index.html": {
+        "description": "Main HTML file that displays a flashing 'Hello World' message.",
+        "dependencies": {
+            "styles.css": []
+        }
+    },
+    "styles.css": {
+        "description": "External CSS file used to animate the text, creating a flashing effect.",
+        "exposes": []
+    }
+}
